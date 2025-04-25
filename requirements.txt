@@ -1,0 +1,16 @@
+# Core packages
+pandas
+matplotlib
+seaborn
+streamlit
+pymongo
+requests
+python-dotenv
+vaderSentiment
+
+# Scheduler packages
+schedule
+psutil
+
+
+

@@ -1,1 +1,1 @@
-News sentiment analzer 
+News scrapper and sentiment analyzer website

@@ -1,0 +1,58 @@
+2025-04-25 00:40:23,236 - __main__ - INFO - 
+Starting Full Pipeline for 2025-04-25...
+
+2025-04-25 00:40:23,237 - __main__ - INFO - Running Scraper...
+2025-04-25 00:40:23,326 - __main__ - ERROR - Error in Scraper: Traceback (most recent call last):
+  File "C:\Users\jaip7\Downloads\madhan\zaalima-1\scraper\scraper.py", line 1, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+
+2025-04-25 00:40:23,326 - __main__ - INFO - Pipeline execution complete
+2025-04-25 12:27:49,601 - __main__ - INFO - 
+Starting Full Pipeline for 2025-04-25...
+
+2025-04-25 12:27:49,603 - __main__ - INFO - Running Scraper...
+2025-04-25 12:27:49,690 - __main__ - ERROR - Error in Scraper: Traceback (most recent call last):
+  File "C:\Users\jaip7\Downloads\madhan\zaalima-1\scraper\scraper.py", line 1, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+
+2025-04-25 12:27:49,691 - __main__ - INFO - Pipeline execution complete
+2025-04-25 16:10:30,142 - __main__ - INFO - 
+Starting Full Pipeline for 2025-04-25...
+
+2025-04-25 16:10:30,142 - __main__ - INFO - Running Scraper...
+2025-04-25 16:10:30,181 - __main__ - ERROR - Error in Scraper: Traceback (most recent call last):
+  File "C:\Users\jaip7\Downloads\madhan\zaalima-1\scraper\scraper.py", line 1, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+
+2025-04-25 16:10:30,181 - __main__ - INFO - Pipeline execution complete
+2025-04-25 16:17:43,735 - __main__ - INFO - Running Scraper...
+2025-04-25 16:17:43,779 - __main__ - ERROR - Error in Scraper: Traceback (most recent call last):
+  File "C:\Users\jaip7\Downloads\madhan\zaalima-1\scraper\scraper.py", line 1, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+
+2025-04-25 16:19:09,123 - __main__ - INFO - Running Scraper...
+2025-04-25 16:19:21,399 - __main__ - INFO - Scraper completed successfully.
+2025-04-25 16:19:21,399 - __main__ - INFO - Running Sentiment Analysis...
+2025-04-25 16:19:21,458 - __main__ - ERROR - Error in Sentiment Analysis: Traceback (most recent call last):
+  File "C:\Users\jaip7\Downloads\madhan\zaalima-1\sentiment\sentiment.py", line 4, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-04-25 16:28:51,431 - __main__ - INFO - Running Scraper...
+2025-04-25 16:29:02,824 - __main__ - INFO - Scraper completed successfully.
+2025-04-25 16:29:02,824 - __main__ - INFO - Running Sentiment Analysis...
+2025-04-25 16:29:02,879 - __main__ - ERROR - Error in Sentiment Analysis: Traceback (most recent call last):
+  File "C:\Users\jaip7\Downloads\madhan\zaalima-1\sentiment\sentiment.py", line 4, in <module>
+    from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+ModuleNotFoundError: No module named 'vaderSentiment'
+
+2025-04-25 16:53:49,555 - __main__ - INFO - Running Scraper...
+2025-04-25 16:54:05,752 - __main__ - INFO - Scraper completed successfully.
+2025-04-25 16:54:05,753 - __main__ - INFO - Running Sentiment Analysis...
+2025-04-25 16:54:05,880 - __main__ - INFO - Sentiment Analysis completed successfully.
+2025-04-25 16:54:14,499 - __main__ - INFO - Added 45 new records to MongoDB
+2025-04-25 16:54:14,521 - __main__ - INFO - Total documents in collection: 90
