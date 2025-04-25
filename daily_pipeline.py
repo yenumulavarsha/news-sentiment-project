@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # MongoDB connection URI
-MONGO_URI = "mongodb+srv://MadhanKumarR:mypassword@cluster0.kgklnih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://MadhanKumarR:{replace with the password in here everyone}@cluster0.kgklnih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 def run_script(script_path, name):
     """Runs a Python script as a subprocess"""
